@@ -7,8 +7,16 @@
 </p>
 
 <p align="center">
-  Prism Launcher is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.<br />
-  <br />This is a <b>fork</b> of the MultiMC Launcher and is <b>not</b> endorsed by it.
+  Abnormal Launcher is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.<br />
+  <br />This is a <b>fork</b> of Prism Launcher and is <b>not</b> endorsed by it.
+</p>
+
+<p align="center">
+  Abnormal Launcher tweaks small little annoyances and adds quality of life features that we may want. This was almost a fork of MultiMC until I thought "hey wait, Prism exists, screw MultiMC" LOL 
+</p>
+
+<p align="center">
+  For now all of the info below is default, and WILL be changed at some point.
 </p>
 
 ## Installation
